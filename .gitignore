@@ -1,0 +1,43 @@
+
+# STM32CubeIDE generated files
+Debug/
+Release/
+.settings/
+.project
+.cproject
+.launches/
+
+# Build output
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.lst
+
+# Compiler temporary files
+*.d
+*.su
+*.cyclo
+*.tmp
+
+# Backup files
+*~
+*.bak
+*.orig
+*.swp
+*.swo
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
